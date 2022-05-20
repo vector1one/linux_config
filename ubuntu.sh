@@ -19,3 +19,10 @@ sudo systemctl set-default multi-user.target
 #reboot for headless or
 #/usr/sbin/init 3
 
+#lvm expander
+cd /home/cptadmin/Documents
+mkdir Git
+cd Git
+git clone https://github.com/vector1one/diskimage_ubuntu.git
+chmod a+x diskimage_ubuntu.sh
+
