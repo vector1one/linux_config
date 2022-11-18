@@ -20,7 +20,7 @@ sudo systemctl set-default multi-user.target
 #/usr/sbin/init 3
 
 #lvm expander
-cd /home/cptadmin/Documents
+cd ~/Downloads
 mkdir Git
 cd Git
 git clone https://github.com/vector1one/diskimage_ubuntu.git
