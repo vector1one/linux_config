@@ -26,3 +26,6 @@ cd Git
 git clone https://github.com/vector1one/diskimage_ubuntu.git
 chmod a+x diskimage_ubuntu.sh
 
+#adding in smbv1 connection
+#/etc/samba.samba.conf
+#add in "client min protocol = CORE" under global settings
