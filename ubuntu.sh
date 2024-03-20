@@ -12,6 +12,7 @@
 /usr/bin/apt install -y curl
 /usr/bin/apt install -y git
 /usr/bin/apt install -y nmap
+/usr/bin/apt install -y gparted
 #openjdk-11-jdk
 /usr/bin/apt install -y docker
 /usr/bin/apt install -y docker-compose
