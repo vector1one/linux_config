@@ -16,6 +16,7 @@
 #openjdk-11-jdk
 /usr/bin/apt install -y docker
 /usr/bin/apt install -y docker-compose
+/usr/bin/apt install -y cockpit
 
 
 #start server init 3
